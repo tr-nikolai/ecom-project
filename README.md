@@ -1,4 +1,4 @@
-#eCom project
+# eCom project
 
-##The project is executed on Flaske framework and tinyDB
+## The project is executed on Flaske framework and tinyDB
 
